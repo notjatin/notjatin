@@ -1,10 +1,4 @@
 ## Hi there 👋
-Let's just stay there.
-First, let me *introduce* myself:
-> My real name is RG. Short for rusgranics.
-> I am just starting to develop some things on my own.
-> I have no experience of the workflow.
-> So, I will be experimenting and following my instincts.
 
 ### Current goal:
 * A children friendly application to visualize data structures and play with them.
@@ -18,7 +12,7 @@ First, let me *introduce* myself:
 * That's all.
 
 ### But also
-I forgot about the tech stack.
+About the tech stack.
 * HTML5 is a must as we know.
 * CSS is a must as we also know.
 * Why not include JS too.
